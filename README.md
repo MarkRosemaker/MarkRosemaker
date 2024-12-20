@@ -14,6 +14,21 @@ Welcome to my GitHub profile! I'm a skilled and passionate Go programmer, dedica
 
 A Go package for creating and managing detailed error paths, enabling users to generate comprehensive and helpful error messages, such as `foo.bar["baz"].qux[3].quux ("corge") is invalid`, when traversing complex data structures.
 
+### API Libraries for Go
+
+I develop and maintain comprehensive API libraries for Go, which you can find at [go-api-libs](https://github.com/go-api-libs).
+
+- **OpenAPI Specifications**: Each library includes an OpenAPI file, which is crafted using a combination of official documentation, and enhanced with real sample requests and responses from the API itself. This approach ensures the specifications are exceptionally detailed and comprehensive.
+- **Generation of Efficient Code**: The Go code within these libraries is generated directly from the OpenAPI files, ensuring that the code precisely mirrors the capabilities and structure of the API. This is all made possible by my proprietary generator, which ensures robustness and efficiency in your API calls.
+
+By leveraging these libraries, developers can save time on setup and integration, benefit from up-to-date documentation, and enjoy a streamlined development experience with Go.
+
+Some of the libraries include:
+- [toggl](https://github.com/go-api-libs/toggl)
+- [freepublicapis](https://github.com/go-api-libs/freepublicapis)
+
+Feel free to explore and use these libraries for your projects!
+
 ## Get in Touch
 
 <!-- 
