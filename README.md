@@ -10,9 +10,8 @@ Welcome to my GitHub profile! I'm a skilled and passionate Go programmer, dedica
 
 ## Featured Projects
 
-### [errpath](https://github.com/MarkRosemaker/errpath)
-
-A Go package for creating and managing detailed error paths, enabling users to generate comprehensive and helpful error messages, such as `foo.bar["baz"].qux[3].quux ("corge") is invalid`, when traversing complex data structures.
+- [errpath](https://github.com/MarkRosemaker/errpath): Creates detailed error paths, enabling users to generate comprehensive and helpful error messages, such as `components.schemas["Pet"].allOf[0]: invalid schema`, when traversing complex data structures.
+- [jsonutil](https://github.com/MarkRosemaker/jsonutil): Custom [JSON v2](https://github.com/go-json-experiment/json) marshaling and unmarshaling utilities for `time.Duration` and `url.URL` types in Go.
 
 ### API Libraries for Go
 
