@@ -1,4 +1,4 @@
-# Hi there, I'm Mark Rosemaker 👋
+# Hi there, I'm Mark 👋
 
 Welcome to my GitHub profile! I'm a skilled and passionate Go programmer, dedicated to building high-quality software and contributing to the open-source community. Here, you'll find a collection of my public repositories, showcasing my work and contributions.
 
