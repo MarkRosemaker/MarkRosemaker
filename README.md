@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a skilled and passionate Go programmer, dedica
 
 ## Featured Projects
 
-- [openapi](https://github.com/MarkRosemaker/openapi): Tools for parsing, formatting, validating, and programmatically enhancing OpenAPI specifications in Go.
+- [openapi](https://github.com/MarkRosemaker/openapi?tab=readme-ov-file#badges): Tools for parsing, formatting, validating, and programmatically enhancing OpenAPI specifications in Go.
 - [errpath](https://github.com/MarkRosemaker/errpath): Creates detailed error paths, enabling users to generate comprehensive and helpful error messages, such as `components.schemas["Pet"].allOf[0]: invalid schema`, when traversing complex data structures.
 - [jsonutil](https://github.com/MarkRosemaker/jsonutil): Custom [JSON v2](https://github.com/go-json-experiment/json) marshaling and unmarshaling utilities for `time.Duration` and `url.URL` types in Go.
 - [ordmap](https://github.com/MarkRosemaker/ordmap): Provides a generic ordered map implementation, primarily designed for [JSON v2](https://github.com/go-json-experiment/json) marshalling and unmarshalling. Includes helper functions to easily define your own custom ordered maps with minimal boilerplate code.
